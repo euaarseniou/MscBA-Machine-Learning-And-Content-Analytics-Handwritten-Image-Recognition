@@ -1,3 +1,3 @@
-# MscBA-Machine-Learning-And-Content-Analytics-Handwritten-Image-Recognition
+# Handwritten-Image-Recognition
 
 The purpose of this assignment is to use OCR technology in order to predict the text of handwritten images.
